@@ -244,7 +244,7 @@
     height: 30px;
     background-color: aliceblue;
     position: absolute;
-    bottom: -10px;
+    top: 300px;
    }
 
    footer p{
